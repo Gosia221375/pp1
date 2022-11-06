@@ -1,6 +1,6 @@
 name = input("Your name is: ")
 age = input("Your age is: ")
-height = input("Your height is:")
+height = input("Your height is: ")
 
 age = str(age)
 height = str(height)
